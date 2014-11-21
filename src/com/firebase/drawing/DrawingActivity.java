@@ -14,7 +14,7 @@ import com.firebase.client.ValueEventListener;
 public class DrawingActivity extends Activity implements ColorPickerDialog.OnColorChangedListener {
 
     // TODO: change this to your own Firebase URL
-    private static final String FIREBASE_URL = "https://android-drawing.firebaseIO-demo.com";
+    private static final String FIREBASE_URL = "https://freedrawing.firebaseIO.com"; //"https://android-drawing.firebaseIO-demo.com";
 
     private static final int COLOR_MENU_ID = Menu.FIRST;
 
